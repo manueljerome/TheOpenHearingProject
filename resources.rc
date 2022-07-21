@@ -15,9 +15,9 @@ BEGIN
   BEGIN
     BLOCK "040904E4"
     BEGIN
-      VALUE "FileDescription",  "LikeToHear_Prototype\0"
+      VALUE "FileDescription",  "TheOpenHearingProject\0"
       VALUE "FileVersion",  "1.0.0\0"
-      VALUE "ProductName",  "LikeToHear_Prototype\0"
+      VALUE "ProductName",  "TheOpenHearingProject\0"
       VALUE "ProductVersion",  "1.0.0\0"
     END
   END
